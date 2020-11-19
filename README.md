@@ -1,4 +1,4 @@
 # repo1
 First github repository.
 
-Edited in local repo.
+Edited in Universal way.
